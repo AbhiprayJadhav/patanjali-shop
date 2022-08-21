@@ -7,7 +7,7 @@
 					<div class="login-form"><!--login form-->
 						<h2>About Us</h2>
 						<address>
-	    					<p>Company Name</p>
+	    					<p>Company</p>
 							<p>Address</p>
 							<p>Mobile:</p>
 							<p>Fax:</p>
